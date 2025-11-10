@@ -47,7 +47,7 @@ Trained and compared four supervised learning models:
 ---
 
 ## 🧰 Technologies Used  
-- **Python 3.x**  
+- **Python**  
 - **Pandas, NumPy** – Data manipulation  
 - **Scikit-learn, Imbalanced-learn** – Modelling and evaluation  
 - **Plotly, Seaborn, Matplotlib** – Data visualisation  

@@ -73,5 +73,3 @@ It demonstrates an **end-to-end machine learning pipeline** that can be adapted 
 
 ---
 
-🔗 **LinkedIn:** [www.linkedin.com/in/saikiran-mada](https://www.linkedin.com/in/saikiran-mada)  
-📫 **Email:** [your.email@example.com]  
